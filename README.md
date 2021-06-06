@@ -1,0 +1,2 @@
+# Reloadable-Guns
+Reloadable Guns is a terraria mod that changes the way bullet shooting guns work, by adding a reloading mechanic. (no this is not a nerf to ranged weapons), guns can shoot up a max amount of bullets before having to be reloaded via pressing a hotkey, after reloading your next shoot will do 200% more damage. all gun weapons will also have a +12% damage increase as compromise. the purpose of this mod is to make it so that there is more things to do as a gunslinger aside from holding right-click.
